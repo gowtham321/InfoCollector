@@ -14,6 +14,7 @@
 		65D611CD291FF160005803A8 /* MotionCollectionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D611CC291FF160005803A8 /* MotionCollectionManager.swift */; };
 		65D611CF291FF167005803A8 /* MotionCollectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D611CE291FF167005803A8 /* MotionCollectorView.swift */; };
 		65D611D1291FF171005803A8 /* WatchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D611D0291FF171005803A8 /* WatchManager.swift */; };
+		65D611D5291FF73A005803A8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 65D611D4291FF73A005803A8 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		65D611CC291FF160005803A8 /* MotionCollectionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionCollectionManager.swift; sourceTree = "<group>"; };
 		65D611CE291FF167005803A8 /* MotionCollectorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionCollectorView.swift; sourceTree = "<group>"; };
 		65D611D0291FF171005803A8 /* WatchManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WatchManager.swift; sourceTree = "<group>"; };
+		65D611D4291FF73A005803A8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		655A106A2914158F00E57548 = {
 			isa = PBXGroup;
 			children = (
+				65D611D4291FF73A005803A8 /* .gitignore */,
 				655A107B2914158F00E57548 /* InfoCollector Watch App */,
 				655A10722914158F00E57548 /* Products */,
 			);
@@ -191,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				655A10842914159100E57548 /* Preview Assets.xcassets in Resources */,
+				65D611D5291FF73A005803A8 /* .gitignore in Resources */,
 				655A10812914159100E57548 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
